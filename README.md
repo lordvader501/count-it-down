@@ -27,3 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 - Next.js/Reactjs, tailwindCss, vercel, typescript
 
 ## screen shots
+![image](https://github.com/lordvader501/count-it-down/assets/60027612/dc5bf5a5-9475-443f-9a93-ff3c0e718177)
+![image](https://github.com/lordvader501/count-it-down/assets/60027612/2701a6b9-1fbd-4b42-8484-7abdf60c8cd4)
+
